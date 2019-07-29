@@ -54,3 +54,6 @@ video.accelerate.hw=1
 
 # ro.product.first_api_level indicates the first api level the device has commercially launched on.
 ro.product.first_api_level=23
+
+# OTA
+lineage.updater.uri=https://raw.githubusercontent.com/sasi2006166/android_devices_OTA/P/lineage_on7xelte.json
