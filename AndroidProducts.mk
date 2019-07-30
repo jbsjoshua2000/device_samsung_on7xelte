@@ -20,3 +20,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_on7xelte.mk \
     $(LOCAL_DIR)/lotus_on7xelte.mk \
     $(LOCAL_DIR)/rr_on7xelte.mk
+    $(LOCAL_DIR)/cos.mk
