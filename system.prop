@@ -51,6 +51,7 @@ ro.sys.sdcardfs.legacy-mounting=1
 ro.build.selinux=1
 debug.performance.tuning=1
 video.accelerate.hw=1
+debug.hwc.force_gpu=1
 
 # ro.product.first_api_level indicates the first api level the device has commercially launched on.
 ro.product.first_api_level=23
