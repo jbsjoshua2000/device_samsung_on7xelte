@@ -14,11 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_on7xelte.mk \
-    $(LOCAL_DIR)/dot_on7xelte.mk \
-    $(LOCAL_DIR)/havoc_on7xelte.mk \
-    $(LOCAL_DIR)/lineage_on7xelte.mk \
-    $(LOCAL_DIR)/lotus_on7xelte.mk \
-    $(LOCAL_DIR)/rr_on7xelte.mk \
-    $(LOCAL_DIR)/cos.mk \
     $(LOCAL_DIR)/cerberus_on7xelte.mk \
