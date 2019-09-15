@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cerberus_on7xelte.mk \
+    $(LOCAL_DIR)/rr_on7xelte.mk \
